@@ -2,3 +2,4 @@ WpfExampleCloudInterface/bin/
 WpfExampleCloudInterface/obj/
 WpfExampleSerialPort/bin/
 WpfExampleSerialPort/obj/
+*.suo
