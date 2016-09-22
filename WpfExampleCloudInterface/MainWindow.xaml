@@ -9,7 +9,7 @@
         Title="CYW Cloud Interface" Width="525" Height="464">
     <StackPanel>
         <DockPanel>
-            <ControlYourWay:UserControlCywCloudInterface  x:Name="cywCloudInterface" Margin="5" Width="177" HorizontalAlignment="Left" UserName="your_email@address.com" NetworkPassword="Network Password" NetworkNamesString="network 1" DataReceived="cywCloudInterface_DataReceived"/>
+            <ControlYourWay:UserControlCywCloudInterface  x:Name="cywCloudInterface" Margin="5" Width="177" HorizontalAlignment="Left" UserName="your_email@address.com" NetworkPassword="Network Password" NetworkNamesString="network 1" DataReceived="cywCloudInterface_DataReceived" ShowControls="True"/>
         </DockPanel>
         <TextBlock Margin="5,0,0,0">Received Data:</TextBlock>
         <TextBox Margin="5,0,5,0" x:Name="textboxRecData" AcceptsReturn="True" TextWrapping="Wrap" Height="100"></TextBox>

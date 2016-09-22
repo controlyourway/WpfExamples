@@ -34,8 +34,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="cywInterface, Version=1.0.5.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\cywInterface.dll.1.0.5\lib\net40\cywInterface.dll</HintPath>
+    <Reference Include="cywInterface, Version=1.0.6.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\cywInterface.dll.1.0.6\lib\net40\cywInterface.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
